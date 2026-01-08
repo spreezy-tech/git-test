@@ -1,2 +1,3 @@
 This file is used to showcase git merge conflicts.  - Changes from Manav
 This file is used to showcase git merge conflicts. - Changes from Chetan
+This file is used to showcase git merge conflicts. - New Changes from Chetan 
