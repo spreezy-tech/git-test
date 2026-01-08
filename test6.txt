@@ -1,1 +1,1 @@
-This is a sample file to showcase merge conflict - feature 2
+This file is used to showcase git merge conflicts.
