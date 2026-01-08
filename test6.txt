@@ -1,1 +1,1 @@
-This file is used to showcase git merge conflicts.
+This file is used to showcase git merge conflicts.  - Changes from Manav
